@@ -1,0 +1,336 @@
+Grabbing images
+Xt9hs7x.jpg
+135 - JO6OGcg.jpg
+251 - 1oZVXic.jpg
+rNN3w71.jpg
+d5mb41D.jpg
+234 - G0RsbTI.jpg
+095 - IUGy5MG.jpg
+12 - bAb2w2g.jpg
+09 - wWBCXYy.jpg
+10 - bMGkEX3.jpg
+s5MxtLm.jpg
+44 - fSFLIne.jpg
+366 - uui2Hxl.jpg
+203 - TDnDIRe.jpg
+150 - tdMMmq5.jpg
+RBO63fA.jpg
+158 - 3CJsAU6.jpg
+06 - W3wmOmS.jpg
+32 - pMit0dn.jpg
+103 - s5ZMb5K.jpg
+36 - oEJoNwH.jpg
+219 - Q2CFxQD.jpg
+oIXKUET.jpg
+343 - kjBNDGv.jpg
+QA5kzlG.jpg
+18 - 8ABxvoL.jpg
+smU3zNs.jpg
+va5bvaZ.jpg
+EX0MvrF.jpg
+143 - PAoymro.jpg
+WnNwgVE.jpg
+eaGrrwl.jpg
+5 - 6z4bEiv.jpg
+323 - 0yflJYe.jpg
+04 - LaDONOa.jpg
+001 - oYCNx6A.jpg
+333 - W3hxfIB.jpg
+144 - PKmNe02.jpg
+EX0MvrF.jpg
+037 - 0aL9u5S.jpg
+sSHKzAZ.jpg
+071 - A9scupz.jpg
+03 - wErTB8F.jpg
+150 - tdMMmq5.jpg
+051 - mMaGfw5.jpg
+41 - zceufdR.jpg
+09 - WJNmypj.jpg
+C2PNwou.jpg
+7fNxJT6.jpg
+5 - AHOGxka.jpg
+NdnHaCk.jpg
+302 - nl76uHl.jpg
+3wVdrjq.jpg
+284 - fQhCPAb.jpg
+19 - D43LMel.jpg
+151 - uHUZRIi.jpg
+11 - qoTr4jz.jpg
+04 - DqPfHJg.jpg
+13 - emAEOCo.jpg
+018 - VjtKCFu.jpg
+07 - sLNoF1f.jpg
+11 - qoTr4jz.jpg
+002 - NauXsKY.jpg
+333 - W3hxfIB.jpg
+zgHtoRV.jpg
+QA5kzlG.jpg
+LCoQU0H.jpg
+051 - mMaGfw5.jpg
+UklxAyJ.jpg
+qWP5XrG.jpg
+025 - nTCJMxm.jpg
+02 - nhRnApm.jpg
+234 - G0RsbTI.jpg
+YJPt4MW.jpg
+10 - PdPWGTG.jpg
+29 - Janesinner SG.jpg
+013 - op0D856.jpg
+251 - 1oZVXic.jpg
+107 - j0A1RB0.jpg
+116 - xSbyxcq.jpg
+071 - A9scupz.jpg
+3 - qFoVI6y.jpg
+09 - WJNmypj.jpg
+180 - uiTANlh.jpg
+rNN3w71.jpg
+045 - IxskbHU.jpg
+18 - 8ABxvoL.jpg
+37 - Kemper and Venom SG.jpg
+34 - cDMqX11.jpg
+062 - viPl4Ns.jpg
+aMSUL18.jpg
+qWP5XrG.jpg
+5 - 6z4bEiv.jpg
+14 - BRpOp4T.jpg
+150 - tdMMmq5.jpg
+QA5kzlG.jpg
+38 - edOCLRt.jpg
+fgK3zff.jpg
+09 - WJNmypj.jpg
+20 - 7jE4zZG.jpg
+043 - UhgijPw.jpg
+025 - nTCJMxm.jpg
+7fNxJT6.jpg
+01 - wcNAdDm.jpg
+059 - oErrphA.jpg
+258 - 20Z2HzP.jpg
+037 - 0aL9u5S.jpg
+03 - FeGAwoW.jpg
+03 - wErTB8F.jpg
+va5bvaZ.jpg
+O450tVz.jpg
+41 - zceufdR.jpg
+004 - PnSZwxD.jpg
+1KJkPky.jpg
+16 - mrGEuk7.jpg
+051 - mMaGfw5.jpg
+3wVdrjq.jpg
+09 - WQ7wY7r.jpg
+FreYCaw.jpg
+04 - fUpslMD.jpg
+253 - g1phXu4.jpg
+347 - VybTecN.jpg
+245 - 2a0DHMX.jpg
+361 - u1uFjQS.jpg
+135 - JO6OGcg.jpg
+23 - cY6qnng.jpg
+6drJwrq.jpg
+24 - Radeo SG.jpg
+4 - JnFGzEU.jpg
+3xXuTvp.jpg
+129 - BTG0fo7.jpg
+361 - u1uFjQS.jpg
+347 - VybTecN.jpg
+019 - OClBsQX.jpg
+066 - V2wMxom.jpg
+356 - 9dT6GXP.jpg
+129 - BTG0fo7.jpg
+347 - VybTecN.jpg
+129 - BTG0fo7.jpg
+3xXuTvp.jpg
+302 - nl76uHl.jpg
+sJ4zxJO.jpg
+jD2rqCL.jpg
+366 - uui2Hxl.jpg
+sJ4zxJO.jpg
+207 - 2pVTqmN.jpg
+134 - Tn2Zdkh.jpg
+326 - M4ChHgx.jpg
+366 - uui2Hxl.jpg
+349 - nCR9z8P.jpg
+sJ4zxJO.jpg
+Finished: 82.580s
+[0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1]
+Num of right (good) swipes: 151
+Num of left (bad) swipes: 33
+Size of (bad) in training set 22
+Size of (good) in training set 111
+Size of (bad) in testing set 11
+Size of (good) in testing set 40
+Training Size: 133
+Testing Size: 51
+Training Dataset
+Finished: 24.732s
+Testing Dataset
+1 0
+1 0
+1 0
+1 0
+0 0
+1 0
+1 0
+1 0
+1 0
+0 0
+1 0
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+0 1
+1 1
+1 1
+1 1
+1 1
+1 1
+Finished: 5.120s
+Correct: 41
+Incorrect: 10
+Accuracy: 80.392
+Training Dataset
+Finished: 16.498s
+Testing Dataset
+1 0
+0 0
+1 0
+1 0
+0 0
+1 0
+1 0
+0 0
+1 0
+0 0
+1 0
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+0 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+Finished: 0.160s
+Correct: 43
+Incorrect: 8
+Accuracy: 84.314
+Training Dataset
+Finished: 5.429s
+Testing Dataset
+1 0
+1 0
+1 0
+1 0
+0 0
+1 0
+1 0
+0 0
+1 0
+0 0
+1 0
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+0 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+Finished: 3.596s
+Correct: 42
+Incorrect: 9
+Accuracy: 82.353
